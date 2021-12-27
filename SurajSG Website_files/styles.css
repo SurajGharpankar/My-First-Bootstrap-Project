@@ -1,0 +1,136 @@
+body {
+  background-color: #ffffff font-family: "Montserrat"
+}
+
+#title {
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-bottom: 12%;
+  padding-top: 10%;
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+hr {
+  background-color: white;
+  border-style: dotted none none none;
+  border-color: rgb(255, 0, 0);
+  border-width: 6px;
+  height: 0px;
+  width: 5%;
+}
+
+img {
+  width: 600px;
+  height: 400px;
+}
+
+h3 {
+  color: #66BFBF;
+  font-family: "Montserrat-Bold";
+  font-size: 1.8rem
+}
+p{
+  color: grey;
+}
+
+h1 {
+  font-family: "Montserrat-Black";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/* .container-fluid {
+  padding: 3% 10%;
+} */
+
+.suraj {
+  padding: 1% 8%;
+}
+.subinfo{
+  padding: 1% 8%;
+}
+
+.navbar {
+  padding-bottom: 2.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.0rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  font-size: 0.9rem;
+}
+
+.social-button{
+  margin: 5% 3% 5% 0%;
+}
+
+.title-image{
+  align-content: center;
+}
+
+#education{
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-bottom: 16%;
+  padding-top: 8%;
+  /* padding: 7% 16%; */
+  background-color: lightblue;
+}
+
+.education-box{
+  text-align: center;
+  padding: 3%;
+}
+
+.icon{
+  color: grey;
+}
+
+.icon:hover{
+  color: #ff4c68;
+}
+.hicon:hover{
+  color: lightblue;
+}
+.sicon:hover{
+  color: yellow;
+}
+
+#hobbies{
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-bottom: 20%;
+  padding-top: 14%;
+  text-align: center;
+  background-color: grey ;
+
+}
+
+#skills{
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-bottom: 18%;
+  padding-top: 16%;
+    text-align: center;
+    background-color: tan ;
+}
+
+#contactme{
+  padding: 2% 7% ;
+  text-align: center;
+  background-color: orange ;
+}
+
+#footer{
+  text-align: center;
+  padding: 3% 1%;
+}
+
+.social-icon{
+  margin: 20px 10px;
+}
